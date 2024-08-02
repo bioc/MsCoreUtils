@@ -1,3 +1,9 @@
+# MsCoreUtils 1.16
+
+## MsCoreUtils 1.16.1
+
+- Fix `common_path()` function in cases a single value is passed as an argument.
+
 # MsCoreUtils 1.15
 
 ## MsCoreUtils 1.15.7
